@@ -1,4 +1,4 @@
-## PROJETO PRÁTICO EM SISTEMAS
+##  PROJETO PRÁTICO EM SISTEMAS ou PROJETO EM EMPREENDEDORISMO E TRANSFORMAÇÃO DIGITAL
 * **Dia:** Quarta-Feira (Pré-aula)
 * **Período:** noite
 
@@ -31,7 +31,7 @@ Sem o correto preenchimento do formulário o trabalho não será corrigido.
 * **07/06/2023** 
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud.
-	+ Preenchimento do formulário formalizando a entrega do projeto. Link: aguardar link (será informado no final de maio)
+	+ Preenchimento do formulário formalizando a entrega do projeto. **Link:** https://forms.gle/yiMo7powCmpsxzrcA
 	+ Atenção: Informar todos os alunos no formulário, conforme exemplo indicado no link.
 
     
@@ -41,7 +41,7 @@ Prof.  Daniel Ferreira de Barros Junior. - ([danielf@uni9.pro.br](mailto:danielf
 
 
 ## Contato
-Em caso de dúvidas encaminhe-me um e-mail, sempre informando seu **RA**, **Nome** e o nome deste repositório **(T30-projeto)** no título da mensagem.
+Em caso de dúvidas encaminhe-me um e-mail, sempre informando seu **RA**, **Nome** e o nome deste repositório **(T51-projeto)** no título da mensagem.
 
 
 ## Dicas
